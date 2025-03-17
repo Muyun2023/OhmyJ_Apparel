@@ -5,3 +5,5 @@
 * [Linux](install-angular-tools/linux/install-linux.md)
 * [Mac](install-angular-tools/mac/install-mac.md)
 * [Microsoft Windows](install-angular-tools/ms-windows/install-ms-windows.md)
+
+© Muyun Ji. Confidential and Proprietary. All Rights Reserved.
